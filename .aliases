@@ -1,0 +1,13 @@
+# shell
+alias l='ls -al'
+alias c='clear'
+alias h='history 10'
+
+# git
+alias g='git'
+alias gc='git checkout'
+alias gs='git status'
+alias gb='git branch'
+alias ga='git add'
+alias gp='git push'
+alias gl="git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
