@@ -2,6 +2,9 @@
 alias l='ls -al'
 alias c='clear'
 alias h='history 10'
+alias ..='cd ..'
+alias grep='grep --color=auto'
+alias math='bc -lq'
 
 # git
 alias g='git'
